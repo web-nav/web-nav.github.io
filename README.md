@@ -2,13 +2,13 @@ web-nav.github.io
 永不变 请长期收藏
 
 # qke.net备用网址:
-(qke.net)
+(https://qke.net)
 
-(www.qke.net)
+(https://www.qke.net)
 
-(wwwb.eu.org)
+(https://wwwb.eu.org)
 
-(wwwk.eu.org)
+(https://wwwk.eu.org)
 
 QQ群1: 831479742
 
