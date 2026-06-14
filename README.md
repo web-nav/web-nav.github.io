@@ -2,7 +2,7 @@ web-nav.github.io
 永不变 请长期收藏
 
 # qke.net备用网址:
-<https://qke.net>
+<https://qke.net/zh>
 
 <https://www.qke.net>
 
