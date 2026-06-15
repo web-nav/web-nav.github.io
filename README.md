@@ -1,5 +1,5 @@
 web-nav.github.io
-永不变 请长期收藏
+永久不变 请收藏
 
 # qke.net备用网址:
 <https://qke.net/zh>
