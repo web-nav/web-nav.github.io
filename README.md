@@ -10,6 +10,6 @@ web-nav.github.io
 
 <https://wwwk.eu.org>
 
-[QQ群1: 831479742](https://qm.qq.com/cgi-bin/qm/qr?authKey=RGM7qw1fksqaRbqDER6TgXWL1urdUwVIcw5phfFflQ10WlMgjFRTQj8EPXkBlS%2B1&k=DVaP57oJnZvrrlKj4V4n2qH436PCAemE&noverify=0)
+[QQ群1: 831479742](https://qm.qq.com/q/fKgqXS7Loc)
 
 [QQ群2: 461375323](https://qm.qq.com/q/eO3s57dSRG)
