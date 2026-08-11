@@ -8,7 +8,6 @@
 
 <https://wwwb.eu.org>
 
-<https://wwwk.eu.org>
 # qke.net的QQ群
 [QQ群1: 831479742](https://qm.qq.com/q/fKgqXS7Loc)
 
