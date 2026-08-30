@@ -2,7 +2,7 @@
 
 永久不变 请收藏
 
-# 网址发布页
+# qke.net 发布页
 <https://qke.net/zh/>
 
 <https://www.qke.net>
