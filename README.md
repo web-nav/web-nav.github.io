@@ -1,7 +1,5 @@
-永久不变 请收藏
-
-<https://web-nav.github.io>
-
+永久不变 请收藏<https://web-nav.github.io>
+#
 <https://qke.net/zh/>
 
 <https://www.qke.net>
