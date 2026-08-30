@@ -6,8 +6,6 @@
 
 <https://www.qke.net>
 
-<https://qke.pages.dev>
-
 <https://wwwb.eu.org>
 
 <https://wwwk.eu.org>
