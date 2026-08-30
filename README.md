@@ -1,4 +1,4 @@
-# web-nav.github.io
+# <https://web-nav.github.io>
 永久不变 请收藏
 
 # qke.net网址发布页
