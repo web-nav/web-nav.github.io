@@ -1,3 +1,5 @@
+qke.net 奇客网 防丢失
+
 永久不变 请收藏
 
 <https://web-nav.github.io>
