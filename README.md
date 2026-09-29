@@ -4,7 +4,7 @@ qke.net 奇客网 防失联
 
 <https://web-nav.github.io>
 #
-<https://qke.net/zh/>
+<https://qke.net>
 
 <https://www.qke.net>
 
