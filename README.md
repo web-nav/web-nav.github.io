@@ -10,7 +10,7 @@ qke.net 奇客网 防失联
 
 <https://wwwb.eu.org>
 
-<https://web2-b6d.pages.dev>
+<https://web-servers.pages.dev>
 
 [QQ群1: 831479742](https://qm.qq.com/q/fKgqXS7Loc)
 
