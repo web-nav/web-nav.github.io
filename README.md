@@ -12,6 +12,8 @@ qke.net 奇客网 防失联
 
 <https://web-servers.pages.dev>
 
+<https://web2-b6d.pages.dev>
+
 [QQ群1: 831479742](https://qm.qq.com/q/fKgqXS7Loc)
 
 [QQ群2: 461375323](https://qm.qq.com/q/eO3s57dSRG)
